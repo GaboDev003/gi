@@ -1,1 +1,2 @@
-<?php echo "imprimir" ?>
+<?php echo "imprimir algo nuevo
+" ?>
